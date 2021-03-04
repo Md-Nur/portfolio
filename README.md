@@ -153,7 +153,7 @@ Md.Nur-E-Alam Siddiquee
 
 <tr>
 
-<th>[![](home-solid.svg)](https://md-nur.github.io/Porfolio/)</th>
+<th>[![](home-solid.svg)](https://md-nur.github.io/portfolio/)</th>
 
 <th>[![](code-branch-solid.svg)](https://www.facebook.com/Md.NurEAlamSiddiquee/)</th>
 
