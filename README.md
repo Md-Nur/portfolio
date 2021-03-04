@@ -142,52 +142,6 @@ I am a seniour member of G4G1CTBP from 2014 to till present.
 
 </div>
 
-<div class="github">
-
-# Hi 👋, I'm Md. Nur E Alam Siddiquee
-
-### A passionate programmer from Bangladesh
-
-![md-nur](https://komarev.com/ghpvc/?username=md-nur&label=Profile%20views&color=0e75b6&style=flat)
-
-[![md-nur](https://github-profile-trophy.vercel.app/?username=md-nur)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![@mdnur9211](https://img.shields.io/twitter/follow/@mdnur9211?logo=twitter&style=for-the-badge)](https://twitter.com/@mdnur9211)
-
-*   🔭 I’m currently working on [Saif Academy](http://saifacademy.rf.gd/)
-
-*   🌱 I’m currently learning **C programing**
-
-*   👯 I’m looking to collaborate on [Learn Python](https://github.com/Md-Nur/LearnPython)
-
-*   🤝 I’m looking for help with [College Website](http://nuracademy.epizy.com/)
-
-*   👨‍💻 All of my projects are available at [https://github.com/Md-Nur/](https://github.com/Md-Nur/)
-
-*   📝 I regularly write articles on [https://twitter.com/MdNur9211](https://twitter.com/MdNur9211)
-
-*   💬 Ask me about **HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap, C, Python**
-
-*   📫 How to reach me **md.nurealamsiddiquee2004@gmail.com**
-
-*   ⚡ Fun fact **I am funny**
-
-### Connect with me:
-
-[![@mdnur9211](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/@mdnur9211) [![mdnur9211](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://linkedin.com/in/mdnur9211) [![13151007](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)](https://stackoverflow.com/users/13151007) [![md.nur9211](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://fb.com/md.nur9211) [![6438](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg)](https://discord.gg/6438)
-
-### Languages and Tools:
-
-[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ](https://getbootstrap.com) [ ![c](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ](https://www.cprogramming.com/) [ ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/) [ ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/) [ ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/) [ ![illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg) ](https://www.adobe.com/in/products/illustrator.html) [ ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [ ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/) [ ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ](https://www.mysql.com/) [ ![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) ](https://www.photoshop.com/en) [ ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net) [![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) 
-
-![md-nur](https://github-readme-stats.vercel.app/api/top-langs?username=md-nur&show_icons=true&locale=en&layout=compact)
-
- ![md-nur](https://github-readme-stats.vercel.app/api?username=md-nur&show_icons=true&locale=en)
-
-![md-nur](https://github-readme-streak-stats.herokuapp.com/?user=md-nur&)
-
-</div>
-
 <footer>  
 
 Copyright © All right reserved by  
