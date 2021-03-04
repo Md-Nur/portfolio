@@ -1,0 +1,40 @@
+body{
+    background-image: url('bg.gif');
+    background-attachment: fixed;
+    background-size: cover;
+    padding: auto;
+    
+}
+
+
+p,h1,button{
+    background-color: rgba(5,5,5,0.5);
+    color: white;
+    padding: 2.5vh;
+    margin: 2.5vh;
+    border-radius: 2.5vh;
+    
+}
+button:hover{
+    background-color: rgba(80,80,80,0.8); 
+}
+ h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    background-color: black;
+    color: white;
+    z-index: 1;
+    margin-top: 1%;
+    padding: 5%;
+    text-align: center;
+    margin: -1;
+  }
+footer table th{
+    text-align: center;
+  }

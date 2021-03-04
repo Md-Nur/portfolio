@@ -1,0 +1,63 @@
+body{
+    background-image: url('bg.gif');
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.github{
+    color: white;
+    margin: 5vw;
+    padding: 5vw;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.cerosel{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 50vh;
+    padding-bottom: 50vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url('ezgif.com-gif-maker.gif');
+    background-size: cover;
+    font-size: 100px;
+    font-weight: bold;
+    background-attachment: fixed;
+}
+.jumbotron{
+     
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.card{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    margin: 2.5vh;
+    border-radius: 2vh;
+}
+footer{
+        background-color: black;
+        color: white;
+        z-index: 1;
+        margin-top: 1%;
+        padding: 5%;
+        text-align: center;
+      }
+footer table th{
+        text-align: center;
+}
+@media(max-width:575px){
+    .cerosel{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        padding-top: 50vh;
+        padding-bottom: 50vh;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+        background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url('(1).gif');
+        background-size: cover;
+        font-size: 50px;
+        background-attachment: fixed;
+    } 
+}

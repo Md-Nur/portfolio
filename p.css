@@ -1,0 +1,44 @@
+body{
+    background-image: url('bg.gif');
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.cerosel{
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color: rgba(5,5,5,0.5);
+    background-size: cover;
+    border-radius: 5vh;
+    margin: 5vh;
+
+}
+.p1{
+    background-color: rgba(5,5,5,0.5);
+    color: white;
+    padding: 2.5vh;
+    margin: 2.5vh;
+    border-radius: 2.5vh;
+}
+.p1 h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p1 p{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    background-color: black;
+    color: white;
+    z-index: 1;
+    margin-top: 1%;
+    padding: 5%;
+    text-align: center;
+  }
+footer table th{
+    text-align: center;
+  }
